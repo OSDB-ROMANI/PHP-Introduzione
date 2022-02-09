@@ -1,0 +1,8 @@
+<html>
+  <body>
+    <h1>Esempio di PHP</h1>
+    <?php
+      echo "codice PHP";
+    ?>
+  </body>
+</html>
