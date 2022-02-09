@@ -1,0 +1,10 @@
+<?php
+  echo"
+        <html>
+          <body>
+            <h1>Esempio di PHP</h1>
+            <p>Codice Html inserito all'interno di codice PHP</p>
+          </body>
+        </html>  
+  ";
+?>
