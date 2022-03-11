@@ -3,7 +3,7 @@ PHP è un linguaggio di scripting interpretato rivolto allo sviluppo di applicaz
 <h2>Caratteriste del linguaggio</h2>
 <li>I file vanno salvati con l'estensione php</li>
 <li>E' possibile incorporare il codice php in una pagina html o il codice html in nel codice php (esempio_1.php, esempio_2.php)</li>
-<li>Il codice php deve essere compreso tra il tag di apertura <?php e il tag di chiusura ?></li>
+<li>Il codice php deve essere compreso tra il tag di apertura < ? php e il tag di chiusura ? ></li>
 <li>Ogni istruzione deve terminare con un punto e virgola (;)</li>
 <li>VARIABILI</li>
   <ol>
