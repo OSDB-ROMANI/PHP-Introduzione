@@ -7,7 +7,7 @@ PHP è un linguaggio di scripting interpretato rivolto allo sviluppo di applicaz
 <li>Ogni istruzione deve terminare con un punto e virgola (;)</li>
 <li>VARIABILI</li>
   <ol>
-    <li>PHP è debolmente tipicizzato, non occorre definire il tipo di una variabile ma viene assegnato dall'interprete dinamicamente.</li>
+    <li>PHP è debolmente tipizzato, non occorre definire il tipo di una variabile ma viene assegnato dall'interprete dinamicamente.</li>
     <li>Una variabile deve sempre iniziare con il simbolo del dollaro ($).</li>
     <li>Il primo carattere dopo il $ non può mai essere un numero.</li>
     <li>I caratteri ammessi nel nome di una variabile sono A-Z,a-z,0-9 e _</li>
